@@ -1,0 +1,37 @@
+body{
+    display: grid;
+    font-family: Arial, Helvetica, sans-serif;
+    grid-template-areas: 
+    "header header header" 
+    "aside main main" 
+    "footer footer footer";
+    background-color: rgb(159, 179, 172);
+}
+
+h1{
+    font-size: 3em;
+    color: blue;
+    text-shadow: 1px 1px 1px #000,
+                 2px 2px 2px #000,
+                 3px 3px 3px #000;
+    animation: a 1s alternate infinite;
+}
+@keyframes a{
+    0%{
+        letter-spacing: 8px;
+    }
+    100%{
+        letter-spacing: 0px;
+    }
+}
+
+.o-main{
+    align-content: auto;
+}
+
+.o-aside{
+    align-content: auto;
+}
+img{
+    siza: 500px;
+}
