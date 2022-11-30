@@ -1,19 +1,19 @@
 Especificação:
-*DESENVOLVER UMA PÁGINA COM O TEMA A MINHA ESCOLHA, COM OS ELEMENTOS(CSS/ CSS ANIMATION/ FORMULÁRIO/ JAVASCRIPT (COM FUNÇÃO A MINHA ESCOLHA) ).
+*DESENVOLVER UMA PÁGINA COM O TEMA A MINHA ESCOLHA, COM OS ELEMENTOS(CSS/ CSS ANIMATION/ FORMULÁRIO/ JAVASCRIPT ( COM FUNÇÃO A MINHA ESCOLHA) ).
 
 Detalhamento:
 irei precisar fazer um formulário(o qual ira receber os dados sobre o tema), colocar um estilo de página mais aéreo, talvez um azul, colocar a animação no titulo, por conta de deixar em destaque a página, o java script vou tentar fazer como se estivesse pedindo uma opnião para a pessoa que acessar a página.
 
 Codificação:
 1º Definir o tema em qual ira se basear a página: VIAGENS.
-2º Criar os arquivos (HTML/ CSS/ JAVASCRIPT).
+2º Criar os arquivos (HTM L/ CSS/ JAVASCRIPT).
 3º fazer primeiro a parte da semântica da página=> HTML.
 4º Acrescentar o estilo para a página, junto com a animação=> CSS.
 5º Montar o código em java.
-6º linicar os arquivos (HTML/ CSS/ JAVASCRIPT).
+6º linicar os arquivos (HTML / CSS/ JAVASCRIPT).
 
 Depuração e Teste:
-Deu erro(a animação não estava se movendo), por conta que estava esquecendo de adicionar @keyframes que é "utilizado para demarcar a primeira e a última imagem de uma sequência simples de movimento dentro de uma animação".
+Deu erro(a animação não estava se movendo), por conta que estava esquecendo de adicionar @keyframes que é " utilizado para demarcar a primeira e a última imagem de uma sequência simples de movimento dentro de uma animação".
 Deu erro(alinhamento dentro da pánina, a parte de formulário), por conta disso foi utilizado a tag pre que "um texto dentro desse elemento é tipicamente exibido em uma fonte não proporcional da mesma maneira em que o texto original foi disposto no arquivo. Espaços em branco são mantidos no texto da mesma forma em que este foi digitado".
 
 Documentação:
